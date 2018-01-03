@@ -640,6 +640,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Vuethexplore](https://github.com/sc0Vu/vuethexplore) - A simple app explore ethereum blockchain with vuejs.
   - [Fintechers](https://www.fintechers.io) - Fintech focused job board.
   - [Devjournal](https://www.devjournalapp.com) - Collaborative todo list for projects and ideas.
+  - [Yummit](https://yummit.co) - Re-inventing takeaways, order home-cooked food from local chefs
 
 ### Interactive Experiences
 
